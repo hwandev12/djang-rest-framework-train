@@ -1,2 +1,2 @@
 # Django rest framework train
-![img.png](img.png)
+![img.png](coreDrf/img.png)
